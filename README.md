@@ -74,7 +74,8 @@ public class Hello
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/75235090/172861194-bdf9e371-63d7-4eb4-96a6-cfd1dea1d4c5.png)
+
+![exp 9 c#](https://user-images.githubusercontent.com/75237886/175272407-4ae4b8fd-bb6a-48d5-8e06-b35f57ebfcd8.png)
 
 
 ## Result:
